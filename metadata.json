@@ -1,0 +1,5 @@
+{
+  "name": " AutoHVAC--- Compressor Power & Torque Model",
+  "description": "A physics-based automotive HVAC simulation tool estimating compressor load, COP degradation, and engine torque penalties based on real-time inputs.",
+  "requestFramePermissions": []
+}
